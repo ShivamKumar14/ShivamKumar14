@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shivam Kumar
-- 👀 I’m interested in learrning and working on softwre.
+- 👀 I’m interested in learrning and working on software.
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on some web project.
 -
