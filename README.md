@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ShivamKumar14
-- 👀 I’m interested in learrning 
+- 👋 Hi, I’m @Shivam Kumar
+- 👀 I’m interested in learrning and working on softwre.
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on some web project.
 -
 
 <!---
